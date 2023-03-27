@@ -10,6 +10,7 @@ body {
 /*  */
 .preloader img {
     width: 100%;
+    object-fit: cover;
 }
 .preloader {
     position: fixed;
